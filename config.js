@@ -16,8 +16,8 @@ global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 global.owner = [
   ['393336413960', 'Salvatore', true],
-  ['393773800915', 'Andrea,' true],
-  ['19184025124', 'Simone,' true],
+  ['393773800915', 'Andrea', true],
+  ['19184025124', 'Simone', true],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx'],
   ['xxxxxxxxxx']
