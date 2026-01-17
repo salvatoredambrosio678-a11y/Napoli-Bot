@@ -5,12 +5,12 @@ import { fileURLToPath } from 'url';
 
 global.botnumber = '';
 global.confirmCode = '';
-global.nomebot = 'Napoli-Bot;
-global.packname = 'Napoli-Bot;
-global.author = 'Napoli-Bot;
+global.nomebot = 'Napoli-Bot';
+global.packname = 'Napoli-Bot';
+global.author = 'Napoli-Bot';
 global.vs = '8.8';
 global.collab = 'Demon Slayer';
-global.wm = global.MD';
+global.wm = global.'NapoliBot';
 global.wait = 'ⓘ 𝐂𝐚𝐫𝐢𝐜𝐚𝐦𝐞𝐧𝐭𝐨 ...';
 
 
